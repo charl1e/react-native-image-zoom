@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/emrahkadiric/Documents/zepter/zepter-mobile-client/src/components/Custom/react-native-image-zoom/android/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/emrahkadiric/Documents/zepter/zepter-mobile-client/src/components/Custom/react-native-image-zoom/android/src/debug/jniLibs"/></dataSet></merger>

@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-image-zoom@^0.32.0",
+        "scope": null,
+        "escapedName": "react-native-image-zoom",
+        "name": "react-native-image-zoom",
+        "rawSpec": "^0.32.0",
+        "spec": ">=0.32.0 <0.33.0",
+        "type": "range"
+      },
+      "/home/nadira/Documents/Zepter Demo/zepter-mobile-client"
+    ]
+  ],
+  "_from": "react-native-image-zoom@>=0.32.0 <0.33.0",
+  "_id": "react-native-image-zoom@0.32.0",
+  "_inCache": true,
+  "_location": "/react-native-image-zoom",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-image-zoom-0.32.0.tgz_1475769889890_0.19525654474273324"
+  },
+  "_npmUser": {
+    "name": "anthonyzou",
+    "email": "ou.anthony@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-image-zoom@^0.32.0",
+    "scope": null,
+    "escapedName": "react-native-image-zoom",
+    "name": "react-native-image-zoom",
+    "rawSpec": "^0.32.0",
+    "spec": ">=0.32.0 <0.33.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-image-zoom/-/react-native-image-zoom-0.32.0.tgz",
+  "_shasum": "633f0b796d6303e8a7ef99133733c53dd5a7a81c",
+  "_shrinkwrap": null,
+  "_spec": "react-native-image-zoom@^0.32.0",
+  "_where": "/home/nadira/Documents/Zepter Demo/zepter-mobile-client",
+  "author": {
+    "name": "Anthony Ou"
+  },
+  "bugs": {
+    "url": "https://github.com/Anthonyzou/react-native-image-zoom/issues"
+  },
+  "dependencies": {},
+  "description": "React Native wrappers for PhotoView and universal-image-loader",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "633f0b796d6303e8a7ef99133733c53dd5a7a81c",
+    "tarball": "https://registry.npmjs.org/react-native-image-zoom/-/react-native-image-zoom-0.32.0.tgz"
+  },
+  "gitHead": "efa9a4cd006ff43864953a7760153351938f36ba",
+  "homepage": "https://github.com/Anthonyzou/react-native-image-zoom#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "image.js",
+  "maintainers": [
+    {
+      "name": "anthonyzou",
+      "email": "ou.anthony@gmail.com"
+    }
+  ],
+  "name": "react-native-image-zoom",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthonyzou/react-native-image-zoom.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "version": "0.32.0"
+}
